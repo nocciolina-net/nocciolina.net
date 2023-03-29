@@ -1,0 +1,17 @@
+baseURL = 'https://nocciolina.net/'
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 1
+    title = 'Nocciolina | Your Comfy Nest In the Hearth of Langhe'
+    contentDir = 'content/en'
+    languageName = 'English'
+    [languages.en.params]
+        description = "A comfortable house in the hearth of Langhe, where you'll enjoy peaceful time, relax, walks, a taste of authentic local specialties, and a breathtaking sunset with a view of the Monviso!"
+  [languages.it]
+    weight = 2
+    title = 'Nocciolina | Il vostro nido nel cuore delle Langhe'
+    contentDir = 'content/it'
+    languageName = 'Italiano'
+    [languages.it.params]
+        description = "Un'accogliente casetta nel cuore delle Langhe, dove potrete godervi momenti di pace assoluta, relax, camminate, prodotti genuini e un tramonto mozzafiato con vista sul Monviso!"
