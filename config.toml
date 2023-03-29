@@ -1,5 +1,6 @@
 baseURL = 'https://nocciolina.net/'
 defaultContentLanguage = "en"
+publishDir = "docs"
 [languages]
   [languages.en]
     weight = 1
