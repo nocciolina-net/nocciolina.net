@@ -74,6 +74,10 @@
   background-size: cover;
 }
 
+.carousel-image {
+  margin-bottom: .1em !important;
+}
+
 .img-fluid {
   width: 100%;
   height: auto;
